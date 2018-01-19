@@ -1,0 +1,5 @@
+submission 1:
+R2 : 0.888248
+RMSE : 0.017842
+Kaggle : 0.13808
+Details: Getting Started
