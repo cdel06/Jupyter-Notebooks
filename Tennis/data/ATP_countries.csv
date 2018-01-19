@@ -1,0 +1,102 @@
+ATP_Code,Country_Name,Py_Map_Code,Wrld_Bk_Code,Region
+AHO,Netherlands Antilles,NLD,NLD,Europe
+ALG,Algeria,DZA,DZA,Africa
+ARG,Argentina,ARG,ARG,South_America
+ARM,Armenia,ARM,ARM,Asia
+AUS,Australia,AUS,AUS,Oceania
+AUT,Austria,AUT,AUT,Europe
+AZE,Azerbaijan,AZE,AZE,Asia
+BAH,"Bahamas, The",BHM,BHS,Central_America_&_Carribean
+BAR,Barbados,BRB,BRB,Central_America_&_Carribean
+BEL,Belgium,BEL,BEL,Europe
+BEN,Benin,BEN,BEN,Africa
+BER,Bermuda,GBR,GBR,Europe
+BIH,Bosnia and Herzegovina,BIH,BIH,Europe
+BLR,Belarus,BLR,BLR,Europe
+BOL,Bolivia,BOL,BOL,South_America
+BRA,Brazil,BRA,BRA,South_America
+BUL,Bulgaria,BGR,BGR,Europe
+BUR,Burkina Faso,BFA,BFA,Africa
+CAN,Canada,CAN,CAN,North_America
+CHI,Chili,CHL,CHL,South_America
+CHN,China,CHN,CHN,Asia
+CIV,Cote d'Ivoire,CIV,CIV,Africa
+COL,Colombia,COL,COL,South_America
+CRC,Costa Rica,CRI,CRI,Central_America_&_Carribean
+CRO,Croatia,HRV,HRV,Europe
+CUB,Cuba,CUB,CUB,Central_America_&_Carribean
+CYP,Cyprus,CYP,CYP,Europe
+CZE,Czech Republic,CZE,CZE,Europe
+DEN,Denmark,DNK,DNK,Europe
+DOM,Dominican Republic,DOM,DOM,Central_America_&_Carribean
+ECU,Ecuador,ECU,ECU,South_America
+EGY,Egypt,EGY,EGY,Middle_East
+ESA,El Salvador,SLV,SLV,Central_America_&_Carribean
+ESP,Spain,ESP,ESP,Europe
+EST,Estonia,EST,EST,Europe
+FIN,Finland,FIN,FIN,Europe
+FRA,France,FRA,FRA,Europe
+GBR,United Kingdom,GBR,GBR,Europe
+GEO,Georgia,GEO,GEO,Asia
+GER,Germany,DEU,DEU,Europe
+GHA,Ghana,GHA,GHA,Africa
+GRE,Greece,GRC,GRC,Europe
+GUA,Guatemala,GTM,GTM,Central_America_&_Carribean
+HAI,Haiti,HTI,HTI,Central_America_&_Carribean
+HKG,Hong Kong,HKG,HKG,Asia
+HUN,Hungary,HUN,HUN,Europe
+INA,Indonesia,IDN,IDN,Asia
+IND,India,IND,IND,Asia
+IRI,Iran,IRN,IRN,Middle_East
+IRL,Ireland,IRL,IRL,Europe
+ISR,Israel,ISR,ISR,Middle_East
+ITA,Italy,ITA,ITA,Europe
+JAM,Jamaica,JAM,JAM,Central_America_&_Carribean
+JPN,Japan,JPN,JPN,Asia
+KAZ,Kazakhstan,KAZ,KAZ,Asia
+KEN,Kenya,KEN,KEN,Africa
+KOR,"Korea, South",KOR,KOR,Asia
+KUW,Kuwait,KWT,KWT,Middle_East
+LAT,Latvia,LVA,LVA,Europe
+LTU,Lithuania,LTU,LTU,Europe
+LUX,Luxembourg,LUX,LUX,Europe
+MAR,Morocco,MAR,MAR,Africa
+MAS,Malaysia,MYS,MYS,Asia
+MDA,Moldova,MDA,MDA,Europe
+MEX,Mexico,MEX,MEX,North_America
+MKD,Macedonia,MKD,MKD,Europe
+MNE,Montenegro,MNE,MNE,Europe
+MON,Monaco,MCO,MCO,Europe
+NED,Netherlands,NLD,NLD,Europe
+NGR,Nigeria,NGA,NGA,Africa
+NOR,Norway,NOR,NOR,Europe
+NZL,New Zealand,NZL,NZL,Oceania
+PAK,Pakistan,PAK,PAK,Asia
+PAR,Paraguay,PRY,PRY,South_America
+PER,Peru,PER,PER,South_America
+PHI,Philippines,PHL,PHL,Asia
+POL,Poland,POL,POL,Europe
+POR,Portugal,PRT,PRT,Europe
+PUR,United States,USA,USA,North_America
+ROU,Romania,ROU,ROU,Europe
+RSA,South Africa,ZAF,ZAF,Africa
+RUS,Russia,RUS,RUS,Europe
+SEN,Senegal,SEN,SEN,Africa
+SLO,Slovenia,SVN,SVN,Europe
+SRB,Serbia,SRB,SRB,Europe
+SRI,Sri Lanka,LKA,LKA,Asia
+SUI,Switzerland,CHE,CHE,Europe
+SVK,Slovakia,SVK,SVK,Europe
+SWE,Sweden,SWE,SWE,Europe
+THA,Thailand,THA,THA,Asia
+TOG,Togo,TGO,TGO,Africa
+TPE,Taiwan,TWN,CHN,Asia
+TUN,Tunisia,TUN,TUN,Africa
+TUR,Turkey,TUR,TUR,Europe
+UKR,Ukraine,UKR,UKR,Europe
+URU,Uruguay,URY,URY,South_America
+USA,United States,USA,USA,North_America
+UZB,Uzbekistan,UZB,UZB,Asia
+VEN,Venezuela,VEN,VEN,South_America
+YUG,Serbia,SRB,SRB,Europe
+ZIM,Zimbabwe,ZWE,ZWE,Africa
