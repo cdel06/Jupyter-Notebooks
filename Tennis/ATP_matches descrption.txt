@@ -1,0 +1,68 @@
+########
+String #
+########
+
+	tourney_id : id du tournoi
+	tourney_name : nom du tournoi
+	winner_id : Winnder id
+	winner_name : Winner Name
+	loser_id :
+	loser_name :
+	score :
+
+#############
+Categorical #
+#############
+
+	surface : Hard, Clay, Carpet
+	draw_size : Nb de Participants (32, 128, 4)
+	tourney_level : A, G, D
+	winner_entry : NaN, WC, Q
+	winner_hand : 'R', 'L', 'U', nan
+	winner_ioc : Country of Winner
+	loser_entry :
+	loser_hand :
+	loser_ioc :
+	best_of : best of number of set// 3 or 5
+	round : Niveau du tournoi // 'F', 'SF', 'QF', 'R16', 'R32', 'R128', 'R64', 'RR'
+
+
+######
+Date #
+######
+
+	tourney_date : format "20170102"
+
+#####
+Num #
+#####
+
+	match_num : from 1 to 300 n° of match in tourney
+	winner_seed : Tête de série n°
+	winner_ht : heigt in cm
+	winner_age :
+	winner_rank :
+	winner_rank_points :
+	loser_seed :
+	loser_ht :
+	loser_age :
+	loser_rank :
+	loser_rank_points :
+	minutes : length of the match
+	w_ace : Number of ace of winner
+	w_df : Number of Double faults of winner
+	w_svpt : Number of service points played by winner
+	w_1stIn : Number of firsts services of winner
+	w_2ndWon : Number of second serve points won for winner
+	w_SvGms : Number of service games played by winner
+	w_bpSaved : Number of break points saved by winner
+	w_bpFaced : Number of break points faced by winner
+	l_ace :
+	l_df :
+	l_svpt :
+	l_1stIn :
+	l_1stWon :
+	l_2ndWon :
+	l_SvGms :
+	l_bpSaved : 
+	l_bpFaced]
